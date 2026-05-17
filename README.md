@@ -1,6 +1,5 @@
-
 <p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="200" width="100%">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Computer+Engineering+Student;Web+Developer;Software+Developer;Cybersecurity+Enthusiast;Future+Ethical+Hacker" />
 </p>
 <div align="center">
 
